@@ -7,7 +7,7 @@ Familiar with Generative AI, NLP, LLMs, and Vector Databases. Experienced in dep
 Passionate about building efficient, real-world automation systems.
 
 
-<img align="right" alt="Coding" width="200" height="100" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
+<img align="right" alt="Coding" width="200" height="500" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 
 
 ---
