@@ -2,10 +2,11 @@
 <img align="right" alt="Coding" width="200"  src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 
 
-B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
-Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
-Familiar with Generative AI, NLP, LLMs, and Vector Databases. Experienced in deploying scalable automation and AI solutions on Azure.  
-Passionate about building efficient, real-world automation systems.
+* B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
+* Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
+* Familiar with Generative AI, NLP, LLMs, and Vector Databases. 
+* Experienced in deploying scalable automation and AI solutions on Azure.  
+* Passionate about building efficient, real-world automation systems.
 
 
 
