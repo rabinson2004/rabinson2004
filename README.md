@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="200" height="500" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 # Hi, I'm Rabinson 👋
+<img align="right" alt="Coding" width="200" height="500" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 
 
 B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
