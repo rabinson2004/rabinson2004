@@ -1,5 +1,5 @@
 # Hi, I'm Rabinson 👋
-<img align="right" alt="Coding" width="400" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
+<img align="right" alt="Coding" width="200" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 
 B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
 Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
