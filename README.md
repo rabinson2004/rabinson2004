@@ -1,5 +1,5 @@
 # Hi, I'm Rabinson 👋
-<img align="right" alt="Coding" width="400"  src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
+<img align="right" alt="Coding" width="300"  src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 
 
 * B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
@@ -7,11 +7,6 @@
 * Familiar with Generative AI, NLP, LLMs, and Vector Databases. 
 * Experienced in deploying scalable automation and AI solutions on Azure.  
 * Passionate about building efficient, real-world automation systems.
-
-
-
-
-
 ---
 
 ## 🛠️ Skills
