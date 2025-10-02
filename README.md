@@ -1,6 +1,6 @@
 # Hi, I'm Rabinson 👋
 
-![Automation GIF](https://www.bing.com/images/search?view=detailV2&ccid=oNQdz3%2bw&id=32F02227EFE441ADEB807A184610450F85184342&thid=OIP.oNQdz3-wTV8Uo_mainA8xAHaFj&mediaurl=https%3a%2f%2fwww.apprendoo.com%2fwp%2fwp-content%2fuploads%2f2024%2f03%2fartificial-intelligence.gif&exph=1200&expw=1600&q=ai+engineer+gif&FORM=IRPRST&ck=CA6D2E60E4939ADFB602F84BFFA495F2&selectedIndex=2&itb=0)
+![Automation GIF](https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif).
 
 B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
 Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
