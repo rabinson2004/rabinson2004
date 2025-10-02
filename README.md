@@ -1,6 +1,8 @@
 # Hi, I'm Rabinson 👋
 
-![Automation GIF](https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif){: style="float: right; margin-left: 20px;"}
+<div align="right">
+  <img src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif" width="200"/>
+</div>
 
 B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
 Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
@@ -28,7 +30,7 @@ Passionate about building efficient, real-world automation systems.
   <img src="https://img.shields.io/badge/-LangChain-333?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/-FAISS-333?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-333?style=flat-square&logo=powerbi&logoColor=F2C811" />
-  <img src="https://your-logo-url-here" alt="MCP CrewAI AutoGen Logo" />
+  <img src="https://img.shields.io/badge/-MCP%20CrewAI%20AutoGen-333?style=flat-square&logo=python&logoColor=white" alt="MCP CrewAI AutoGen Logo" />
 </div>
 
 ---
@@ -48,4 +50,4 @@ Passionate about building efficient, real-world automation systems.
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/rabinson-g-2429a5239/) | [GitHub](https://github.com/rabinson2004) | [Portfolio](https://your-portfolio-link)
+[LinkedIn](https://www.linkedin.com/in/rabinson) | [GitHub](https://github.com/rabinson2004) | [Portfolio](https://your-portfolio-link)
