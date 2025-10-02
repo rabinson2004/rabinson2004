@@ -1,13 +1,14 @@
 # Hi, I'm Rabinson 👋
+B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
+Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
+Familiar with Generative AI, NLP, LLMs, and Vector Databases. Experienced in deploying scalable automation and AI solutions on Azure.  
+Passionate about building efficient, real-world automation systems.
 
 <div align="right">
   <img src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif" width="200"/>
 </div>
 
-B.Tech in AI & Data Science with expertise in workflow automation, RPA, and intelligent integrations.  
-Skilled in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate.  
-Familiar with Generative AI, NLP, LLMs, and Vector Databases. Experienced in deploying scalable automation and AI solutions on Azure.  
-Passionate about building efficient, real-world automation systems.
+
 
 ---
 
