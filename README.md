@@ -1,7 +1,7 @@
 👋 Hi, I'm Rabinson
 <img align="right" alt="Coding" width="300" src="https://www.apprendoo.com/wp/wp-content/uploads/2024/03/artificial-intelligence.gif">
 
-B.Tech in AI & Data Science with hands-on experience in workflow automation, RPA, and intelligent integrations. I love building real-world automation and AI systems that solve practical problems.
+B.Tech in AI & Data Science with hands-on experience in RAG, LLM s ,Langchain , LLamaindex ,workflow automation, n8n worflows. I love building real-world automation and AI systems that solve practical problems.
 
 Experienced in Python, APIs, webhooks, and automation platforms like n8n, Zapier, UiPath, and Power Automate
 
@@ -48,6 +48,8 @@ Passionate about building scalable, efficient, and intelligent automation system
 Building small AWS + MLOps projects (S3 pipelines, Lambda automations, model deployment workflows)
 
 Deepening AI Engineering skills with Hugging Face, LLM fine‑tuning, and GenAI application development
+
+Designing and building A2A systems, microservices, and agentic workflows
 
 📊 GitHub Stats
   
